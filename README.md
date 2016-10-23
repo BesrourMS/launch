@@ -27,3 +27,7 @@ Social:
 For the Social Icons we use [Icomoon](https://icomoon.io/).  You can find a list of all available icons [here](https://icomoon.io/#preview-free).
 
 #### Demo: https://freehtml5.co/demos/launch/
+
+## Screenshot
+
+![Launch Screenshot](http://img15.hostingpics.net/pics/167921Sanstitre1.jpg)
