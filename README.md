@@ -9,7 +9,7 @@ For the content download our `index.md`, upload it in the content folder and mak
 
 ### Required Metas
 `Description` : Description is required for social share metas ( Open Graph & Twitter Card ).<br>
-`Year`, `Month`, `Day` : The date of launching your website. 
+`Year`, `Month`, `Day` : The date of launching your website.<br>
 You can add as many social icons as you want using the follow syntax:
 ```
 Social:
@@ -18,7 +18,7 @@ Social:
   url: icon
 ```
 ### Optional Metas
-`Subscribe` : Link for your mailing service , In my case I put my Tinyletter subscription link.
+`Subscribe` : Link for your mailing service , In my case I put my Tinyletter subscription link.<br>
 `Image` : Link for your background image if you want to cusomize it.
 
 
