@@ -8,7 +8,7 @@ Download the launch folder, extract it to the themes folder of your Pico install
 For the content download our `index.md`, upload it in the content folder and make your changes.
 
 ### Required Metas
-`Description` : Description is required for social share metas ( Open Graph & Twitter Card ).
+`Description` : Description is required for social share metas ( Open Graph & Twitter Card ).<br>
 `Year`, `Month`, `Day` : The date of launching your website. 
 You can add as many social icons as you want using the follow syntax:
 ```
